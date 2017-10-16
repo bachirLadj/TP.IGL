@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41256ba7-bf45-4a87-9298-8c94ccf49005" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="41256ba7-bf45-4a87-9298-8c94ccf49005" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,13 +15,13 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="72">
+              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding>
-                <marker date="1508117761294" expanded="true" signature="21694:21736" ph="..." />
-                <marker date="1508117761294" expanded="true" signature="21694:21754" ph="..." />
-                <marker date="1508117761294" expanded="true" signature="21694:21767" ph="..." />
-                <marker date="1508117761294" expanded="true" signature="21694:21782" ph="..." />
+                <marker date="1508118215426" expanded="true" signature="21438:21480" ph="..." />
+                <marker date="1508118215426" expanded="true" signature="21438:21498" ph="..." />
+                <marker date="1508118215426" expanded="true" signature="21438:21511" ph="..." />
+                <marker date="1508118215426" expanded="true" signature="21438:21526" ph="..." />
               </folding>
             </state>
           </provider>
@@ -33,8 +30,8 @@
       <file leaf-file-name="VectorHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/code/VectorHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            <state relative-caret-position="-98">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -234,12 +231,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508114433532</updated>
       <workItem from="1508114434903" duration="9000" />
-      <workItem from="1508117727359" duration="38000" />
+      <workItem from="1508117727359" duration="506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="907000" />
+    <option name="totallyTimeSpent" value="1375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="7" />
@@ -289,10 +286,10 @@
         <state relative-caret-position="90">
           <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
-            <marker date="1508117761294" expanded="true" signature="21694:21736" ph="..." />
-            <marker date="1508117761294" expanded="true" signature="21694:21754" ph="..." />
-            <marker date="1508117761294" expanded="true" signature="21694:21767" ph="..." />
-            <marker date="1508117761294" expanded="true" signature="21694:21782" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21480" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21498" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21511" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21526" ph="..." />
           </folding>
         </state>
       </provider>
@@ -347,21 +344,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="72">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding>
-            <marker date="1508117761294" expanded="true" signature="21694:21736" ph="..." />
-            <marker date="1508117761294" expanded="true" signature="21694:21754" ph="..." />
-            <marker date="1508117761294" expanded="true" signature="21694:21767" ph="..." />
-            <marker date="1508117761294" expanded="true" signature="21694:21782" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21480" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21498" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21511" ph="..." />
+            <marker date="1508118215426" expanded="true" signature="21438:21526" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/code/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        <state relative-caret-position="-98">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
