@@ -28,4 +28,61 @@ public class VectorHelper {
         return vects;
     }
 
+    public static int[] inverseVect(int[] vect) {
+        int[] vecti = new int[vect.length];
+        for (int i = 0; i < vecti.length; i++) {
+            vecti[i] = vect[vect.length - 1 - i];
+        }
+        return vecti;
+    }
+
+    public static int[] minEtMaxVect(int vect[]) {
+        int[] minEtMax = new int[2];
+        minEtMax[1] = (minEtMax[0] = vect[0]);
+        for (int i = 1; i < vect.length; i++) {
+            if (vect[i] < minEtMax[0]) {
+                minEtMax[0] = vect[i];
+            }
+            if (vect[i] > minEtMax[1]) {
+                minEtMax[1] = vect[i];
+            }
+        }
+        return minEtMax;
+    }
+
+    public static int[] appliqueFormule(int vect[], char formule, int num) {
+        int[] vectr = vect;
+        switch (formule) {
+            case '+':
+                for (int i = 0; i < vectr.length; i++) {
+                    vectr[i] += num;
+                }
+                break;
+            case '-':
+                for (int i = 0; i < vectr.length; i++) {
+                    vectr[i] -= num;
+                }
+                break;
+            case '*':
+                for (int i = 0; i < vectr.length; i++) {
+                    vectr[i] *= num;
+                }
+                break;
+            case '/':
+                for (int i = 0; i < vectr.length; i++) {
+                    vectr[i] /= num;
+                }
+                break;
+            case '^':
+                for (int i = 0; i < vectr.length; i++) {
+                    int temp = vectr[i];
+                    for (int j = 1; j < num; j++) {
+                        vectr[i] *= temp;
+                    }
+                }
+                break;
+        }
+        return vectr;
+    }
+
 }
