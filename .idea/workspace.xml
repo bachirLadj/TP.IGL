@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41256ba7-bf45-4a87-9298-8c94ccf49005" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/VectorHelperTest.java" afterPath="$PROJECT_DIR$/test/test/VectorHelperTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP.IGL/code/TailleDifferente.class" afterPath="$PROJECT_DIR$/out/production/TP.IGL/code/TailleDifferente.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP.IGL/code/VectorHelper.class" afterPath="$PROJECT_DIR$/out/production/TP.IGL/code/VectorHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/TP.IGL/VectorHelperTest.class" afterPath="$PROJECT_DIR$/out/test/TP.IGL/VectorHelperTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/VectorHelperTest.html" afterPath="$PROJECT_DIR$/documentation/VectorHelperTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/allclasses-frame.html" afterPath="$PROJECT_DIR$/documentation/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/allclasses-noframe.html" afterPath="$PROJECT_DIR$/documentation/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/code/TailleDifferente.html" afterPath="$PROJECT_DIR$/documentation/code/TailleDifferente.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/code/VectorHelper.html" afterPath="$PROJECT_DIR$/documentation/code/VectorHelper.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/code/package-frame.html" afterPath="$PROJECT_DIR$/documentation/code/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/code/package-summary.html" afterPath="$PROJECT_DIR$/documentation/code/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/code/package-tree.html" afterPath="$PROJECT_DIR$/documentation/code/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/constant-values.html" afterPath="$PROJECT_DIR$/documentation/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/deprecated-list.html" afterPath="$PROJECT_DIR$/documentation/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/help-doc.html" afterPath="$PROJECT_DIR$/documentation/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-1.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-2.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-3.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-4.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-5.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-6.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index-files/index-7.html" afterPath="$PROJECT_DIR$/documentation/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index.html" afterPath="$PROJECT_DIR$/documentation/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/overview-frame.html" afterPath="$PROJECT_DIR$/documentation/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/overview-summary.html" afterPath="$PROJECT_DIR$/documentation/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/overview-tree.html" afterPath="$PROJECT_DIR$/documentation/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/package-frame.html" afterPath="$PROJECT_DIR$/documentation/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/package-list" afterPath="$PROJECT_DIR$/documentation/package-list" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/package-summary.html" afterPath="$PROJECT_DIR$/documentation/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/package-tree.html" afterPath="$PROJECT_DIR$/documentation/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/serialized-form.html" afterPath="$PROJECT_DIR$/documentation/serialized-form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/code/TailleDifferente.java" afterPath="$PROJECT_DIR$/src/code/TailleDifferente.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/code/VectorHelper.java" afterPath="$PROJECT_DIR$/src/code/VectorHelper.java" />
-    </list>
+    <list default="true" id="41256ba7-bf45-4a87-9298-8c94ccf49005" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -371,7 +336,7 @@
       <workItem from="1508117712260" duration="521000" />
       <workItem from="1508118661890" duration="3000" />
       <workItem from="1508118776114" duration="830000" />
-      <workItem from="1508273221737" duration="936000" />
+      <workItem from="1508273221737" duration="1215000" />
     </task>
     <servers />
   </component>
@@ -390,7 +355,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4652000" />
+    <option name="totallyTimeSpent" value="4931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
