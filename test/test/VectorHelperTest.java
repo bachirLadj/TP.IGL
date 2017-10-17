@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  * <b>test.VectorHelperTest est la classe pour faire des testes unitaires pour les methodes de VectorHelper</b>
  *
  * @author Bachir&Abderrahmane
- * @version 1.0
+ * @version 1.1
  * @see VectorHelper
  */
 

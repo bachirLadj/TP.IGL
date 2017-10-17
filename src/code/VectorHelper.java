@@ -17,7 +17,7 @@ package code;
  * </p>
  *
  * @author Bachir&Abderrahmane
- * @version 1.0
+ * @version 2.1
  */
 
 
@@ -29,7 +29,9 @@ public class VectorHelper {
      * Cette methode sert a trier les elements d'un vecteur donnee avec l'ordre croissant
      * </p>
      * @param vect
-     * @return vectt vecteur trie*/
+     * c'est le vecteur qu'on veut triée
+     * @return un vecteur triée à partir du vect
+     * */
 
     public static int[] triVect(int[] vect) {
         int pt = 1, j = 0, i, x;
@@ -56,9 +58,14 @@ public class VectorHelper {
      * la methode declanche une exception lorsque les vecteurs sont de tailles differentes
      * </p>
      * @param vect1
+     * c'est le 1er vecteur à sommer
      * @param vect2
-     * @throws TailleDifferente
-     * @return vects vecteur trie*/
+     * c'est le 2er vecteur à sommer
+     * @return le vecteur de la somme
+     *
+     * @throws TailleDifferente si la taille des deux vecteurs est differente
+     *
+     * */
 
     public static int[] sommeVects(int[] vect1, int[] vect2) throws TailleDifferente {
         if (vect1.length != vect2.length) throw new TailleDifferente();
@@ -75,7 +82,9 @@ public class VectorHelper {
      * Cette methode sert a inverser les elements d'un vecteur
      * </p>
      * @param vect
-     * @return vecti vecteur inverse*/
+     * c'est le 1er vecteur à inverser
+     * @return le vecteur inverse de vect
+     * */
 
     public static int[] inverseVect(int[] vect) {
         int[] vecti = new int[vect.length];
@@ -91,7 +100,9 @@ public class VectorHelper {
      * Cette methode sert a donner le minimum et le maximum dans un vecteur
      * </p>
      * @param vect
-     * @return minEtMax tableau de deux elements {min,max}*/
+     * @return minEtMax tableau de deux elements {min,max}
+     *
+     *   */
 
     public static int[] minEtMaxVect(int vect[]) {
         int[] minEtMax = new int[2];
@@ -121,7 +132,12 @@ public class VectorHelper {
      * </ul>
      * </p>
      * @param vect
-     * @return vectr vecteur resultat*/
+     * c'est le vecteur iniale
+     * @param formule
+     * la formule a apliquer
+     * @param num
+     * @return le vecteur apres l'application de la formule
+     */
 
     public static int[] appliqueFormule(int vect[], char formule, int num) {
         int[] vectr = vect;
