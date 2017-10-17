@@ -1,7 +1,7 @@
 package code;
 
 /**
- * <b>TailleDifferente est une exception déclanchée quand deux objets sont de tailles differentes</b>
+ * <b>TailleDifferente est une exception declanchee quand deux objets sont de tailles differentes</b>
  *
  * @author Bachir&Abderrahmane
  * @version 1.0

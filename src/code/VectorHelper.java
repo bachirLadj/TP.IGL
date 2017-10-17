@@ -1,18 +1,18 @@
 package code;
 
 /**
- * <b>VectorHelper est la classe pour faire multiples opérations concernant les vecteurs</b>
+ * <b>VectorHelper est la classe pour faire multiples operations concernant les vecteurs</b>
  * <p>
- * Cette classe assure les opérations suivantes
+ * Cette classe assure les operations suivantes
  * <ul>
- * <li>Trier les éléments d’un vecteur</li>
- * <li>Sommer deux vecteurs. Elle doit générer une exception si les deux vecteurs ont des
- * tailles différentes</li>
- * <li>Inverser les éléments d’un vecteur</li>
- * <li>Obtenir simultanément le minimum et le maximum d’un vecteur</li>
- * <li>Appliquer une formule sous forme de fonction à tous les éléments d’un vecteur. Par
- * exemple, multiplier tous les éléments par 2. Cette formule doit être sous la forme d’une
- * fonction ou d’une méthode.</li>
+ * <li>Trier les elements d'un vecteur</li>
+ * <li>Sommer deux vecteurs. Elle doit generer une exception si les deux vecteurs ont des
+ * tailles differentes</li>
+ * <li>Inverser les elements d'un vecteur</li>
+ * <li>Obtenir simultanement le minimum et le maximum d'un vecteur</li>
+ * <li>Appliquer une formule sous forme de fonction a tous les elements d'un vecteur. Par
+ * exemple, multiplier tous les elements par 2. Cette formule doit etre sous la forme d'une
+ * fonction ou d'une methode.</li>
  * </ul>
  * </p>
  *
@@ -26,10 +26,10 @@ public class VectorHelper {
     /**
      * triVect
      * <p>
-     * Cette méthode sert à trier les éléments d'un vecteur donnée avec l'ordre croissant
+     * Cette methode sert a trier les elements d'un vecteur donnee avec l'ordre croissant
      * </p>
      * @param vect
-     * @return vectt vecteur trié*/
+     * @return vectt vecteur trie*/
 
     public static int[] triVect(int[] vect) {
         int pt = 1, j = 0, i, x;
@@ -52,13 +52,13 @@ public class VectorHelper {
     /**
      * sommeVects
      * <p>
-     * Cette méthode sert à sommer les éléments des deux vecteurs en un seul vecteur
-     * la méthode déclanche une exception lorsque les vecteurs sont de tailles différentes
+     * Cette methode sert a sommer les elements des deux vecteurs en un seul vecteur
+     * la methode declanche une exception lorsque les vecteurs sont de tailles differentes
      * </p>
      * @param vect1
      * @param vect2
      * @throws TailleDifferente
-     * @return vects vecteur trié*/
+     * @return vects vecteur trie*/
 
     public static int[] sommeVects(int[] vect1, int[] vect2) throws TailleDifferente {
         if (vect1.length != vect2.length) throw new TailleDifferente();
@@ -72,10 +72,10 @@ public class VectorHelper {
     /**
      * inverseVect
      * <p>
-     * Cette méthode sert à inverser les éléments d'un vecteur
+     * Cette methode sert a inverser les elements d'un vecteur
      * </p>
      * @param vect
-     * @return vecti vecteur inversé*/
+     * @return vecti vecteur inverse*/
 
     public static int[] inverseVect(int[] vect) {
         int[] vecti = new int[vect.length];
@@ -88,10 +88,10 @@ public class VectorHelper {
     /**
      * minEtMaxVect
      * <p>
-     * Cette méthode sert à donner le minimum et le maximum dans un vecteur
+     * Cette methode sert a donner le minimum et le maximum dans un vecteur
      * </p>
      * @param vect
-     * @return minEtMax tableau de deux éléments {min,max}*/
+     * @return minEtMax tableau de deux elements {min,max}*/
 
     public static int[] minEtMaxVect(int vect[]) {
         int[] minEtMax = new int[2];
@@ -110,7 +110,7 @@ public class VectorHelper {
     /**
      * appliqueFormule
      * <p>
-     * Cette méthode sert à appliquer plusieurs formules données sur un vecteur
+     * Cette methode sert a appliquer plusieurs formules donnees sur un vecteur
      * Ces formules sont:
      * <ul>
      *     <li>la somme '+'</li>
@@ -121,7 +121,7 @@ public class VectorHelper {
      * </ul>
      * </p>
      * @param vect
-     * @return vectr vecteur résultat*/
+     * @return vectr vecteur resultat*/
 
     public static int[] appliqueFormule(int vect[], char formule, int num) {
         int[] vectr = vect;
